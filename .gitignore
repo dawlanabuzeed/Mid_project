@@ -1,0 +1,6 @@
+# IntelliJ personal settings
+.idea/
+
+# Visual Paradigm lock and backup files
+*.lck
+*.bak_*

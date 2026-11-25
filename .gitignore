@@ -1,7 +1,15 @@
 # IntelliJ personal settings
 .idea/
+*.iml
+
+# Build output and compiled files
+target/
+out/
+*.class
 
 # Visual Paradigm lock and backup files
 *.lck
+*.vpp.lck
 *.bak_*
 *.bak
+*.vpp.bak
